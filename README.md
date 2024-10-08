@@ -1,8 +1,5 @@
 ## Hi 👋, I`m Thiago Gabriel
 
-<!--
-**mes231/mes231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 💻 About Me
 I am a technician in Industrial Automation and currently pursuing a degree in Control and Automation Engineering. As a programming teacher and developer, I have worked on various projects to solve personal problems and those of people close to me. I am always in constant learning, exploring new tools, and applying them in practice.
 
@@ -25,4 +22,3 @@ I am a technician in Industrial Automation and currently pursuing a degree in Co
 # 📫 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/thiago-gabriel-alves-matias)  
 - [E-mail](mailto:thiagomatias878@gmail.com)
--->
